@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with simple piano lessons designed for beginners.",
+      "price": 119.99,
+      "instructor": "Emily Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar skills including solos, scales, and improvisation.",
+      "price": 149.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the building blocks of music with chords, notes, and rhythm theory.",
+      "price": 89.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": false,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drum Basics",
+      "slug": "drum-basics",
+      "description": "Learn the fundamentals of drumming, beats, timing, and coordination.",
+      "price": 109.99,
+      "instructor": "David Brown",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Violin for Starters",
+      "slug": "violin-for-starters",
+      "description": "A beginner-friendly course to start playing violin with proper techniques.",
+      "price": 129.99,
+      "instructor": "Anna White",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Singing and Vocal Training",
+      "slug": "singing-vocal-training",
+      "description": "Improve your voice with breathing exercises, pitch control, and vocal practice.",
+     "price": 139.99,
+      "instructor": "Chris Martin",
+      "isFeatured": true,
+      "image": "/courses/singing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Digital Music Production",
+      "slug": "digital-music-production",
+      "description": "Learn how to produce music digitally using modern software and tools.",
+      "price": 199.99,
+      "instructor": "Sophia Green",
+      "isFeatured": false,
+      "image": "/courses/music-production.jpg"
+    },
+    {
+      "id": 9,
+      "title": "DJ Mixing Masterclass",
+      "slug": "dj-mixing-masterclass",
+      "description": "Become a DJ by learning mixing, transitions, and creating live sets.",
+      "price": 179.99,
+      "instructor": "James Wilson",
+      "isFeatured": true,
+      "image": "/courses/dj.jpg"
+    }
+  ]
+}
